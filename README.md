@@ -3,7 +3,10 @@
 - ContraMan stands for *Contraseña* the Spanish word for password and *Manager* which means... manager.
 
 ## Installation
+Data about installation
 
 ## Documentation
+Relevant documentation
 
 ## More
+Additional information, useful links and more...
